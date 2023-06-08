@@ -1,2 +1,2 @@
 # Personal
-Personal Scripts
+Personal functional scripts
