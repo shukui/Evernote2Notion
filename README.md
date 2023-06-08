@@ -1,5 +1,5 @@
 # Evernote export to Notion
-1. Export Evernote to *.enex files.
+1. Export Evernote to *.enex files.  \n  
   pip3 install evernote-backup
   evernote-backup init-db --backend china --force
   evernote-backup sync
