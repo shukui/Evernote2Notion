@@ -1,4 +1,4 @@
-# Evernote export to Notion
+# Evernote export & import to Notion
 # Windows
 1. Export Evernote to *.enex files.    
   pip3 install evernote-backup  
